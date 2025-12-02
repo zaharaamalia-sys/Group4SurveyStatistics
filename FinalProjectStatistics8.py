@@ -1,4 +1,15 @@
 # FinalProjectStatistics8.py
+requirements.txt 
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+fpdf
+reportlab
+Pillow
 # FINAL version — Ultra Pink Dashboard + Robust Cleaning + Correlations + PDF (Pink)
 # Requirements: streamlit pandas numpy scipy matplotlib seaborn fpdf openpyxl xlrd
 
@@ -626,6 +637,7 @@ elif page == T["team"]:
 # ---------------------------
 # End of file
 # ---------------------------
+
 
 
 
