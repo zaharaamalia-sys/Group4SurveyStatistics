@@ -5,7 +5,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from fpdf import FPDF
 import tempfile, os
 from datetime import datetime
 from textwrap import shorten
@@ -627,6 +626,7 @@ elif page == T["team"]:
 # ---------------------------
 # End of file
 # ---------------------------
+
 
 
 
