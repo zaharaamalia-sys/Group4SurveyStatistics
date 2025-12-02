@@ -5,7 +5,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from scipy import stats
 import matplotlib.pyplot as plt
 from fpdf import FPDF
 import tempfile, os
@@ -629,4 +628,5 @@ elif page == T["team"]:
 # ---------------------------
 # End of file
 # ---------------------------
+
 
