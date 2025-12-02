@@ -5,7 +5,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from fpdf import FPDF
 import tempfile, os
 from datetime import datetime
@@ -628,5 +627,6 @@ elif page == T["team"]:
 # ---------------------------
 # End of file
 # ---------------------------
+
 
 
